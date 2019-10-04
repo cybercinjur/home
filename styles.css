@@ -1,0 +1,22 @@
+body{font: 76% arial,sans-serif;text-align:center}
+p{margin:0 10px 10px}
+a{padding:5px; text-decoration:none; color:#000000;}
+div#header{background-color:#F3F2ED;}
+div#header h1{height:80px;line-height:80px;margin:0;padding-left:10px;}
+
+div#container{float:left;text-align:left}
+div#container{width:100%;margin:0 auto}
+
+div#nav1 {float:left;width:150px;}
+div#nav1 ul {padding:0; list-style-type:none;}
+div#nav1 li {margin-bottom:5px;}
+div#nav1 {background:#F6F0E0;}
+
+div#wrapper{float:left;width:60%}
+div#content p{line-height:1.4}
+
+div#extra {float:right;background:#CCC8B3;width:15%;}
+div#footer{background:#BFBD93;}
+
+div#footer p{margin:0;padding:5px 10px}
+div#footer{clear:left;width:100%}
